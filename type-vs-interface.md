@@ -82,3 +82,7 @@ Use Type Alias when working with union types, intersection types, primitive type
 ## Conclusion
 
 Both Type Alias and Interface are important TypeScript features. They provide type safety and make code easier to maintain. For object-oriented structures, Interface is often a good choice. For unions and complex type combinations, Type Alias is more flexible. Developers should choose the appropriate one based on their requirements.
+
+1. [Type Alias vs Interface](./type-vs-interface.md)
+2. [Generics and Promices  in TypeScript](./generics-with-promise.md)
+2. [8 Coding Problems Solution](./solutions.ts)

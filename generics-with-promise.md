@@ -78,3 +78,7 @@ The same function can handle different data types without duplicating code.
 ## Conclusion
 
 Generics make TypeScript code flexible, reusable, and type-safe. Promise<T> helps define the expected result of asynchronous operations. Combining Generics with Promise<T> allows developers to build reusable API functions and handle different response types safely in real-world applications.
+
+1. [Type Alias vs Interface](./type-vs-interface.md)
+2. [Generics and Promices  in TypeScript](./generics-with-promise.md)
+2. [8 Coding Problems Solution](./solutions.ts)
